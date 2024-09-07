@@ -24,5 +24,6 @@ Assignments incoming... 📊✨
 </script>
 
 ### Assignment 2
+[Data Viz](/dataviz)
 ### Assignment 3
 ### Final Project
