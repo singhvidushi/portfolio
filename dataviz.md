@@ -29,6 +29,9 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
+You can explore the interactive **Debt-to-GDP Ratio Trends by Country (1995–2019)** using this [link to the Tableau visualization](https://public.tableau.com/shared/W3DM6SR45?:display_count=n&:origin=viz_share_link).
+
+An interactive visualization showing the historical debt-to-GDP ratios of selected countries over time. Use the filters to explore different regions and years to compare trends in national debt levels.
 
 
 ## Comparing Visualization Methods
