@@ -5,17 +5,18 @@
 
 
 ## Part 2: Working with Tableau 
-<div class='tableauPlaceholder' id='viz1725845893449' style='position: relative'><noscript><a href='#'><img alt='Part 2: OECD Data Set ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDDataset&#47;Part2OECDDataSet&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='OECDDataset&#47;Part2OECDDataSet' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDDataset&#47;Part2OECDDataSet&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               
-<script type='text/javascript'>                   
-  var divElement = document.getElementById('viz1725845893449');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-  var scriptElement = document.createElement('script');                   
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                  
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);              
+<div class='tableauPlaceholder' id='viz1725851662527' style='position: relative'><noscript><a href='#'><img alt='Part 2: OECD Data Set ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part3OECDDataset&#47;Part2OECDDataSet&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Part3OECDDataset&#47;Part2OECDDataSet' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part3OECDDataset&#47;Part2OECDDataSet&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>             
+<script type='text/javascript'>               
+  var divElement = document.getElementById('viz1725851662527');                   
+  var vizElement = divElement.getElementsByTagName('object')[0];                  
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';           
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                 
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
+### Part 2: Heat Map Visualization
 
-
+You can explore the interactive **Debt-to-GDP Heat Map** using this [link to the Tableau visualization](https://public.tableau.com/views/Part3OECDDataset/Part2OECDDataSet?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
 ## Part 3: Create your own visualization
@@ -30,8 +31,6 @@
 </script>
 
 You can explore the interactive **Debt-to-GDP Ratio Trends by Country (1995–2019)** using this [link to the Tableau visualization](https://public.tableau.com/shared/W3DM6SR45?:display_count=n&:origin=viz_share_link).
-
-An interactive visualization showing the historical debt-to-GDP ratios of selected countries over time. Use the filters to explore different regions and years to compare trends in national debt levels.
 
 
 ## Comparing Visualization Methods
