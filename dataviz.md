@@ -42,7 +42,7 @@ The bar chart is ideal for comparing government debt across countries for a spec
 #### Part 2: Heat Map:
 The heat map provides an overview of debt-to-GDP ratios over several years. Using color to represent debt levels, it helps identify patterns and outliers across multiple countries and years. This makes it useful for spotting overall trends. However, it doesn’t give precise details about changes from one year to the next and can be harder to interpret for exact values.
 
-#### Part 3: Line Graph (Final Visualization):
+#### Part 3: Line Graph:
 I chose the line graph as my final visualization because it’s the most effective at showing how debt-to-GDP ratios change over time. I also added **country labels** at the end of each line to make it easy for users to identify which line corresponds to each country. The Y-axis was renamed to **"Government Debt as Percentage of GDP (%)"** to make it more descriptive and help users understand the metric more clearly.
 
 The line graph also includes a **dynamic title** and a **short paragraph** explaining how users can interact with the filters for region and year. This interactivity enables users to easily focus on specific regions or time periods, which enhances their exploration of the data and makes it easier to spot trends and changes over time.
