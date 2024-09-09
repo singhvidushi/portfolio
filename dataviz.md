@@ -47,5 +47,3 @@ I chose the line graph as my final visualization because it’s the most effecti
 
 The line graph also includes a **dynamic title** and a **short paragraph** explaining how users can interact with the filters for region and year. This interactivity enables users to easily focus on specific regions or time periods, which enhances their exploration of the data and makes it easier to spot trends and changes over time.
 
-### Conclusion:
-The bar chart is best for single-year comparisons, the heat map shows broad patterns, and the line graph excels at showing long-term trends. I selected the line graph as the final visualization because it provides the clearest and most useful insights into how debt levels evolve over time. The added labels, axis description, and interactive elements help guide the user to a more engaging and informative exploration of the data.
