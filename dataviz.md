@@ -2,7 +2,8 @@
 ## Part 1: Working with web-based visualization tools and data
 <img src="Part1.png" alt="Government Debt Bar Chart" width="500" />
 
-<br/>
+
+
 ## Part 2: Working with Tableau 
 <div class='tableauPlaceholder' id='viz1725845893449' style='position: relative'><noscript><a href='#'><img alt='Part 2: OECD Data Set ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDDataset&#47;Part2OECDDataSet&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='OECDDataset&#47;Part2OECDDataSet' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDDataset&#47;Part2OECDDataSet&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               
 <script type='text/javascript'>                   
@@ -14,7 +15,9 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);              
 </script>
 
-<br/>
+
+
+
 ## Part 3: Create your own visualization
 <div class='tableauPlaceholder' id='viz1725850514101' style='position: relative'><noscript><a href='#'><img alt='Debt-to-GDP Ratio Trends for North America &amp; Oceania (All)An interactive visualization showing the historical debt-to-GDP ratios of selected countries over time. Use the filters to explore different regions and years to compare trends in national debt le ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;5M&#47;5MJHW7DT7&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;5MJHW7DT7' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;5M&#47;5MJHW7DT7&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>              
 <script type='text/javascript'>                   
@@ -26,7 +29,8 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
- <br/> 
+
+
 ## Comparing Visualization Methods
 
 In this assignment, I used three different visualizations to explore government debt-to-GDP ratios: a bar chart, a heat map, and a line graph. Each visualization has its own strengths for presenting the data.
