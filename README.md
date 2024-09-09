@@ -7,9 +7,9 @@ Hello! I'm Vidushi Singh, currently pursuing my Master's in Information Systems 
 My goal is to refine my skills in crafting narratives that not only inform but also inspire action, bridging the gap between data and decision-making. I'm particularly interested in mastering tools and methodologies that help communicate data-driven stories effectively to diverse stakeholders.
 
 ## Portfolio
-🚀 Stay Tuned! 
-Exciting data stories and visualizations are on the way!
-Assignments incoming... 📊✨
+
+### Assignment 1: Visualizing government debt using Tableau
+[Data Viz](/dataviz.md)
 
 ### Class Exercise
 
@@ -23,8 +23,5 @@ Assignments incoming... 📊✨
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
-### Assignment: Visualizing government debt using Tableau
-[Data Viz](/dataviz.md)
-
-### Assignment
+### Assignment 2
 ### Final Project
