@@ -9,7 +9,7 @@ My goal is to refine my skills in crafting narratives that not only inform but a
 ## Portfolio
 
 ### Assignment 1: Visualizing government debt using Tableau
-[Data Viz](/dataviz.md)
+[Link to Assignment](/dataviz.md)
 
 ### Class Exercise
 
