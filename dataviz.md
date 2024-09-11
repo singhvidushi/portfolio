@@ -1,6 +1,6 @@
-# Data Viz
+# Assignment: Visualizing government debt using Tableau
 ## Part 1: Working with web-based visualization tools and data
-<img src="Part1.png" alt="Government Debt Bar Chart" width="500" />
+<img src="Part1.png" alt="Government Debt Bar Chart" width="700" />
 
 
 
