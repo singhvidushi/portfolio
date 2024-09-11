@@ -14,7 +14,7 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';               
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-(&nbsp;)
+</>
 You can also explore the interactive **Debt-to-GDP Heat Map** using this [link to the Tableau visualization](https://public.tableau.com/views/Part3OECDDataset/Part2OECDDataSet?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
@@ -28,7 +28,7 @@ You can also explore the interactive **Debt-to-GDP Heat Map** using this [link t
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
-(&nbsp;)
+
 You can also explore the interactive **Debt-to-GDP Ratio Trends by Country (1995–2019)** using this [link to the Tableau visualization](https://public.tableau.com/shared/W3DM6SR45?:display_count=n&:origin=viz_share_link).
 
 
