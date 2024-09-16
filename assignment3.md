@@ -23,9 +23,24 @@ The visualization's use of a geographic map and bar chart allows for quick compa
 | **Engagement**     | The area map and bar graph are engaging, providing users with multiple ways to explore the data.<br> **Why:** This meets the engagement heuristic by inviting users to interact with the visualization in a way that leads to understanding, encouraging them to explore different states and tools. | The map’s tooltip blocks state names, and percentages in the bar graph are only visible on hover. This makes it harder for users to quickly engage with the data.<br> **Why:** This breaks engagement and perceptibility heuristics by making users work harder to access the data they need. It discourages deeper interaction and exploration. | A more interactive experience with filters on the map, tooltips that don’t block state names, and visible percentages on the bar graph.<br> **Why:** This would improve engagement by allowing users to explore the data more seamlessly and enhancing perceptibility by making key data points (like percentages) immediately available. | 7 |
 
 ## Step 3: Sketch out a solution
+### Sketch 1
 <img src="Donut Map.png" alt="Sketch 1" width="700" />
+The donut chart overlay on the map provides geographic context to the AI tool usage data. By displaying the data directly on a map, users can easily identify regional trends and see how each AI tool (MidJourney, Stable Diffusion, DALL-E) is used within specific states. The donut slices visually represent the proportional usage of each tool, making it intuitive to identify which tools are most popular in different regions.
+
+Interaction Features:
+- **Hover Over for State Name:** Users can hover over the white center of each donut to reveal the state’s name, ensuring easy identification of each geographic region.
+- **Hover Over for Tool Usage:** Users can hover over the colored sections of the donut to see the percentage usage of each AI tool (blue for MidJourney, red for Stable Diffusion, yellow for DALL-E). This feature provides a clear breakdown of tool preferences within each state.
+  
+### Sketch 2
 <img src="Stacked Bar.png" alt="Sketch 2" width="700" />
+The stacked bar chart provides a clear visual comparison of AI tool usage across different U.S. states. The stacked layout allows users to see the proportion of each tool's usage (Midjourney, Stable Diffusion, DALL-E) in each state, making it easy to compare how these tools are used on a state-by-state basis. The horizontal layout keeps the comparison organized and concise.
+
+Interaction Features:
+- **Clicking on Colors:** Users can interact with the chart by selecting individual tool colors on the bar. This feature allows users to filter the chart by the selected tool, instantly reorganizing the chart to highlight the chosen tool. The selected tool will appear first in the bar distribution across all states, making it easier to focus on how the tool performs regionally.
+- **X-Axis Percentages:** The X-axis is labeled with percentages, helping users to easily interpret the data proportions, showing the popularity of each tool as a percentage of the total across all states.
+  
 Video Reference: [#WatchMeViz Generative AI Search Trends in the United States](https://www.youtube.com/watch?v=-w0ynF43yZg&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=11)
+
 ## Step 4: Test the solution
 
 ## Step 5: Build your solution
