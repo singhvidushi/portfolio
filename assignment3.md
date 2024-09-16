@@ -4,7 +4,10 @@
 Souce: Google Trends
 
 #### Why:
-I chose the "Generative AI Search Trends in the United States" visualization from Google Trends because it highlights the growing interest in popular AI image generation tools—MidJourney, Stable Diffusion, and DALL-E—across different U.S. regions. This topic is timely and relevant as AI tools continue to transform creative industries.
+I chose the "Generative AI Search Trends in the United States" visualization from Google Trends because it highlights the growing interest in popular AI image generation tools across different U.S. regions. This topic is timely and relevant as AI tools continue to transform creative industries.
+- MidJourney,
+- Stable Diffusion, and
+- DALL-E
 
 The visualization's use of a geographic map and bar chart allows for quick comparisons, but there are opportunities for improvement in displaying detailed comparisons, enhancing interactivity, and addressing accessibility. These factors make it a compelling choice for a thoughtful critique and redesign.
 
