@@ -169,3 +169,21 @@ Interaction Features:
 - **X-Axis Percentages:** The X-axis is labeled with percentages, helping users to easily interpret the data proportions, showing the popularity of each tool as a percentage of the total across all states.
   
 Video Reference: [#WatchMeViz Generative AI Search Trends in the United States](https://www.youtube.com/watch?v=-w0ynF43yZg&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=11)
+<br>
+### Class Critique
+In the class critique, it was pointed out that the x-axis label was repetitive, particularly with the inclusion of "statewide," which wasn’t necessary. Additionally, the bars in the chart were too wide, making the visualization feel cramped and harder to interpret. The feedback also mentioned that the map visualization wasn’t useful, as it was unclear and didn’t facilitate easy comparison between states, suggesting that the bar chart alone would suffice. Finally, it was recommended that the header could be more engaging to better capture attention, and it was emphasized to consider the intended audience, which includes marketers, AI developers, and data analysts.
+
+## Step 6: Final solution
+<div class='tableauPlaceholder' id='viz1726595355062' style='position: relative'><noscript><a href='#'><img alt='AI Image Wars: U.S. States&#39; Search PreferencesThis visualization highlights regional preferences for three major AI image generation tools—DALL-E, MidJourney, and Stable Diffusion—based on search interest across U.S. states. Users can interact by select ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;6J&#47;6JW7Y8H9P&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;6JW7Y8H9P' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;6J&#47;6JW7Y8H9P&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>        
+<script type='text/javascript'>                 
+  var divElement = document.getElementById('viz1726595355062');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                   
+  var scriptElement = document.createElement('script');                  
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                  
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);              
+</script>
+<br>
+In this final version, I made several enhancements based on the feedback I received. Firstly, I simplified the x-axis label to "Search Interest Share (%)" to avoid redundancy, making it more concise and aligned with the data. I also reduced the width of the bars, allowing for more breathing space and making the chart easier to read. Additionally, I removed the map visualization as it was considered unclear and difficult to compare, focusing solely on the bar chart for clearer data interpretation.
+
+To make the visualization more engaging, I added a catchier title—"AI Image Wars: U.S. States' Search Preferences"—which immediately grabs attention and sets the tone for the data being presented. This version caters to the intended audience of marketers, AI developers, and data analysts, who will appreciate the straightforward, comparative nature of the chart. Lastly, I refined the interaction instructions, encouraging users to select or deselect tools in the legend or click on a bar to bring the tool of interest to the forefront, ensuring a seamless and interactive experience.
