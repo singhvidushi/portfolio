@@ -23,6 +23,9 @@ The visualization's use of a geographic map and bar chart allows for quick compa
 | **Engagement**     | The area map and bar graph are engaging, providing users with multiple ways to explore the data.<br> **Why:** This meets the engagement heuristic by inviting users to interact with the visualization in a way that leads to understanding, encouraging them to explore different states and tools. | The map’s tooltip blocks state names, and percentages in the bar graph are only visible on hover. This makes it harder for users to quickly engage with the data.<br> **Why:** This breaks engagement and perceptibility heuristics by making users work harder to access the data they need. It discourages deeper interaction and exploration. | A more interactive experience with filters on the map, tooltips that don’t block state names, and visible percentages on the bar graph.<br> **Why:** This would improve engagement by allowing users to explore the data more seamlessly and enhancing perceptibility by making key data points (like percentages) immediately available. | 7 |
 
 ## Step 3: Sketch out a solution
+### Sketch 
+<img src="Sketch.jpg" alt="Handdrawn" width="700" />
+
 ### Sketch 1
 <img src="Donut Map.png" alt="Sketch 1" width="700" />
 The donut chart overlay on the map provides geographic context to the AI tool usage data. By displaying the data directly on a map, users can easily identify regional trends and see how each AI tool (MidJourney, Stable Diffusion, DALL-E) is used within specific states. The donut slices visually represent the proportional usage of each tool, making it intuitive to identify which tools are most popular in different regions.
