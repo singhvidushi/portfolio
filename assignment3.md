@@ -56,6 +56,7 @@ I created the bar graph sketch to improve data comparison by including stacked b
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+<br>
 
 The donut chart overlay on the map provides geographic context to the AI tool usage data. By displaying the data directly on a map, users can easily identify regional trends and see how each AI tool (MidJourney, Stable Diffusion, DALL-E) is used within specific states. The donut slices visually represent the proportional usage of each tool, making it intuitive to identify which tools are most popular in different regions.
 
@@ -73,6 +74,7 @@ Interaction Features:
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                
   vizElement.parentNode.insertBefore(scriptElement, vizElement);            
 </script>
+<br>
 
 The stacked bar chart provides a clear visual comparison of AI tool usage across different U.S. states. The stacked layout allows users to see the proportion of each tool's usage (Midjourney, Stable Diffusion, DALL-E) in each state, making it easy to compare how these tools are used on a state-by-state basis. The horizontal layout keeps the comparison organized and concise.
 
