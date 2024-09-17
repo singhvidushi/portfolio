@@ -75,9 +75,7 @@ The visualization's use of a geographic map and bar chart allows for quick compa
 
 In my critique, I used a combination of **Stephen Few's Data Visualization Effectiveness Profile** and the **Good Charts method** to get a well-rounded evaluation.
 
-Stephen Few's method focuses on seven criteria: usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics**, and **engagement, providing a detailed, structured breakdown of the visualization's effectiveness.
-
-The **Good Charts method** is simpler and revolves around three key questions: What I like, What I dislike, and What I wish I saw. It offers a quicker, more subjective approach to evaluating the visualization.
+Stephen Few's method focuses on seven criteria: usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement, providing a detailed, structured breakdown of the visualization's effectiveness. While, the Good Charts method is simpler and revolves around three key questions: What I like, What I dislike, and What I wish I saw. It offers a quicker, more subjective approach to evaluating the visualization.
 
 #### Key Differences:
 1. **Depth of Analysis**: Few's method provides a granular breakdown of the visualization's strengths and weaknesses, while Good Charts offers high-level, actionable feedback.
