@@ -24,8 +24,15 @@ The visualization's use of a geographic map and bar chart allows for quick compa
 
 ## Step 3: Sketch out a solution
 ### Sketch 
+**Map Sketch**
 <img src="Sketch.jpg" alt="Handdrawn1" width="700" />
+
+I created the map sketch to provide a clearer representation of AI tool usage across states by incorporating proportional overlays or color gradients. This addresses the issue of the original map showing only the dominant tool in each state, which oversimplified the data. By allowing users to see multiple tools' usage in each state, the map sketch provides a more accurate and truthful visual representation.
+
+**Bar Graph Sketch**
 <img src="Sketch 2.jpg" alt="Handdrawn2" width="700" />
+
+I created the bar graph sketch to improve data comparison by including stacked bars that show the proportion of interest for each tool within a state. This allows for a side-by-side comparison without needing to hover for details, improving user engagement and ease of use. 
 
 ## Step 4: Test the solution
 
