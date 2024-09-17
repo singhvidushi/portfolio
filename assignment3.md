@@ -47,7 +47,16 @@ I created the bar graph sketch to improve data comparison by including stacked b
 
 ## Step 5: Build your solution
 ### Viz 1
-<img src="Donut Map.png" alt="Sketch 1" width="700" />
+<div class='tableauPlaceholder' id='viz1726548166974' style='position: relative'><noscript><a href='#'><img alt='Exploring AI Image Generation Trends Across U.S. StatesThis interactive map features donut charts to represent the search interest distribution for DALL-E, MidJourney, and Stable Diffusion across different U.S. states. Each chart visualizes the proporti ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YS&#47;YS7CDR5GQ&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;YS7CDR5GQ' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YS&#47;YS7CDR5GQ&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>             
+<script type='text/javascript'>                   
+  var divElement = document.getElementById('viz1726548166974');                   
+  var vizElement = divElement.getElementsByTagName('object')[0];                  
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                 
+  var scriptElement = document.createElement('script');                   
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 The donut chart overlay on the map provides geographic context to the AI tool usage data. By displaying the data directly on a map, users can easily identify regional trends and see how each AI tool (MidJourney, Stable Diffusion, DALL-E) is used within specific states. The donut slices visually represent the proportional usage of each tool, making it intuitive to identify which tools are most popular in different regions.
 
 Interaction Features:
@@ -55,7 +64,16 @@ Interaction Features:
 - **Hover Over for Tool Usage:** Users can hover over the colored sections of the donut to see the percentage usage of each AI tool (blue for MidJourney, red for Stable Diffusion, yellow for DALL-E). This feature provides a clear breakdown of tool preferences within each state.
   
 ### Viz 2
-<img src="Stacked Bar.png" alt="Sketch 2" width="700" />
+<div class='tableauPlaceholder' id='viz1726548219607' style='position: relative'><noscript><a href='#'><img alt='Exploring AI Image Generation Trends Across U.S. StatesThis visualization compares the search interest for three major AI image generation tools—DALL-E, MidJourney, and Stable Diffusion—across U.S. states. The bar chart displays the proportion of search ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GZ&#47;GZ787X4TR&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;GZ787X4TR' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GZ&#47;GZ787X4TR&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>            
+<script type='text/javascript'>                   
+  var divElement = document.getElementById('viz1726548219607');       
+  var vizElement = divElement.getElementsByTagName('object')[0];                  
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                 
+  var scriptElement = document.createElement('script');                
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);            
+</script>
+
 The stacked bar chart provides a clear visual comparison of AI tool usage across different U.S. states. The stacked layout allows users to see the proportion of each tool's usage (Midjourney, Stable Diffusion, DALL-E) in each state, making it easy to compare how these tools are used on a state-by-state basis. The horizontal layout keeps the comparison organized and concise.
 
 Interaction Features:
