@@ -27,3 +27,4 @@ My goal is to refine my skills in crafting narratives that not only inform but a
 </script>
 
 ### Final Project
+[Link to Assignment](/final_project.md)
