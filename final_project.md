@@ -90,3 +90,24 @@ The cleaned and processed datasets used for this project are available for downl
 - [Amazon Prime Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/amazon_prime_titles.csv)
 
 ## Method & Medium
+
+For this project, I will employ a combination of tools and platforms to perform data analysis, create visualizations, and present the findings in a clear and engaging manner. The approach is divided into three main stages: data preparation, visualization, and presentation.
+
+### 1. Data Preparation
+**Tools Used:** Excel and Python  
+**Process:**
+- **Data Cleaning and Transformation:** The raw data sourced from Kaggle will be cleaned and prepared using Excel and Python. This includes handling missing values, standardizing genre names, filtering irrelevant data, and merging datasets where necessary.
+- **Data Analysis:** Using Python libraries such as Pandas and NumPy, I will conduct preliminary analyses to understand the structure and characteristics of the data. This step will help identify key insights and trends that will be explored in the visualizations.
+
+### 2. Data Visualization
+**Tool Used:** Tableau  
+**Process:**
+- **Interactive Visualizations:** Tableau will be used to create interactive and dynamic visualizations that allow users to explore the data. This includes stacked area charts, grouped bar charts, and multi-line graphs that showcase the evolution of genres, platform-specific strategies, and emerging trends.
+- **Customization and Interactivity:** The visualizations will be customized with filters for genres, platforms, and years, enabling users to delve deeper into specific aspects of the data. Annotations and tooltips will be added to highlight key insights and provide additional context.
+
+### 3. Presentation
+**Tool Used:** Shorthand  
+**Process:**
+- **Narrative Structure:** The visualizations and findings will be embedded in a Shorthand presentation to create a cohesive and engaging narrative. This platform allows for a seamless integration of text, images, and interactive charts, making the content accessible and visually appealing.
+- **Storytelling:** The presentation will guide the audience through the evolution of streaming platforms, their genre strategies, and how these have shaped audience preferences over time. Key sections will include context and background, major insights from the visualizations, and actionable conclusions.
+
