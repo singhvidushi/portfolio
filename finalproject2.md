@@ -3,14 +3,12 @@
   
 ## Wireframes and storyboards:
 <img src="Story.png" alt="Sketch 2" width="700" />
-### Persona
-<img src="Persona.png" alt="Sketch 2" width="700" />
 
 ### **Story Flow:**
 
 #### **1. Introduction: The Time We Spend Watching TV and Movies**
    > **Opening**:  
-   > I will begin by highlighting the average time people spend watching TV and movies( about 20 hours per week) and the growing realiance on streaming platforms in everyday life.
+   > In today's world, we spend countless hours glued to our screens, binge-watching TV shows and movies. On average, people spend over 20 hours a week watching their favorite content on streaming platforms.
   
 #### **2. The Hidden Time Drain: Deciding What to Watch**
    > **Highlight the Problem**:  
@@ -40,7 +38,10 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
+Through comprehensive data analysis, I’ve looked at the genre offerings on each platform and how they’ve evolved over time. Whether you're into drama, sci-fi, documentaries, or kids' shows, my visualizations will show you which platform has the most content in your favorite genres.
+
 #### **4. Dynamic Genre Dashboard Overview**
+In a world where content is endless, time shouldn’t be wasted figuring out where to watch. Let this data guide your streaming journey and ensure that you’re watching what you love on the platform that suits you best.
 > The **Dynamic Genre Dashboard** allows users to select any genre, such as Comedy, Drama, Action, or others, and see how streaming platforms compare in terms of content offerings. The dashboard is interactive, featuring several key sections:
 > 
 > - **Bar Chart for Genre Titles**: This bar chart updates based on the selected genre, displaying the total number of titles available on Netflix, Amazon Prime, Hulu, and Disney+. It helps users quickly identify which platform has the most content for their chosen genre.
@@ -63,41 +64,50 @@
 
 For this part of the project, I developed a user research protocol to gather insights from three different individuals who represent my target audience. The goal of this research is to ensure that the visualizations effectively convey the story and help viewers make informed decisions about their streaming platform preferences.
 
-### **Target Audience**
-- **Binge-watchers** who spend a significant amount of time watching content on streaming platforms like Netflix, Amazon Prime, Hulu, and Disney+.
-- **Casual viewers** who also use these platforms but want a more efficient way to choose content based on their favorite genres.
+### **A. Target Audience**
+The target audience includes viewers who regularly stream content across platforms like Netflix, Amazon Prime, Hulu, and Disney+. The specific personas being considered are:
 
-### **Approach to Identifying Interviewees**
-- I selected three individuals from different viewing habits: 
-  1. A **heavy binge-watcher** who watches shows for 3+ hours daily.
-  2. A **casual viewer** who watches a mix of TV shows and movies but often struggles to find what to watch.
-  3. A **media enthusiast** who prefers niche content across multiple genres.
+- **Sarah Lopez:** A 28-year-old student who binge-watches a variety of genres (Drama, Documentaries, Action, Suspense) and experiences decision fatigue due to the overwhelming number of options.
+- **Daniel Williams:** A 35-year-old software engineer who prefers Sci-Fi, Action, Animation, and Family genres. With a time-constrained schedule, he seeks content quickly and values efficiency in his decisions.
+
+<img src="Personas.png" alt="Sketch 2" width="1200" />
+
+### **B. Approach to Identifying Interviewees**
+The representative individuals for the interviews are selected based on their viewing habits and challenges:
+
+- Students: Individuals like Sarah Lopez who juggle academic commitments with entertainment and rely on streaming platforms to relax.
+- Working Professionals: People like Daniel Williams, who balance work and family responsibilities, and prefer an efficient decision-making process when choosing content to watch.
+
+I will reach out to people in these groups who share similar viewing habits and frustrations to understand their perspectives.
   
-### **Interview Script**
-- **Introductory Question**:  
-   "How do you typically decide what to watch on streaming platforms like Netflix or Amazon Prime? How much time do you spend scrolling to find something?"
+### **C. Interview Script & Responses**
+| **Question**                                         | **Interviewee 1 (Sarah Lopez Persona)**                         | **Interviewee 2 (Sarah Lopez Persona)**                        | **Interviewee 3 (Daniel Williams Persona)**                     |
+|------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| **Can you tell me what you think this is?**          | It looks like a tool to compare content across streaming platforms by genre. | It’s showing how different genres are distributed across streaming platforms. | It seems like a guide to help me figure out which platform has more of the content I like. |
+| **Can you describe what this is telling you?**       | It shows which platform has more content in the genre I’m interested in. | It’s comparing how many titles of different genres are available on each platform. | This tells me which platform focuses on specific genres, making it easier to choose where to watch. |
+| **Is there anything you find surprising or confusing?** | It’s not immediately clear how I can use it to quickly make a decision. Maybe a filter or highlight feature would help. | I wish there was a way to compare genres side by side, like a ranking system to see which platform is best for specific genres. | The interface is simple, but I would prefer if it could tell me what’s new or trending in my favorite genres. |
+| **Who do you think is the intended audience for this?** | People like me who watch a lot of shows and movies but want to find what to watch quickly. | It’s for anyone who subscribes to multiple streaming services and needs help navigating the content. | It seems aimed at people who don’t have a lot of time but want to get straight to the point of finding what to watch. |
+| **What part of the visualization do you find most useful?** | The bar chart is helpful for seeing how much content there is, but I’d like it to be more interactive. | The heatmap is the most useful because it shows exactly which platform has what content for each genre. | The dashboard that lets you pick genres is the best part; it’s easy to filter by my interests. |
+| **Is there anything you would change or do differently?** | I’d add more filters and a recommendation section to make the decision process faster. | I would like more personalized suggestions based on my viewing history. | I’d improve the UI so I can quickly toggle between platforms, or even add new features that show trending genres. |
+| **Do you think the colors used in the chart are helpful?** | The colors are fine, but I think using gradients might help make the differences clearer. | They’re distinct enough, but they could be more vibrant, especially for the genres I watch. | I like the colors, but it might be better if they represented trends over time, like a color scale for growth. |
+| **Would you prefer another type of chart or representation?** | A comparison or ranking view would be more helpful for quick decisions. | A recommendation engine or genre ranking might be better than just showing the data. Maybe something like a pie chart for clarity. | The line graphs and bar charts work well, but I’d prefer a system that shows top picks for each genre. |
+
+
+### **D. Findings & Planned Changes Based on Feedback**
+
+1. **Enhance Filter Functionality**:
+   - **Feedback**: Users wanted more intuitive use of the filters for quicker decisions, though they are already present.
+   - **What Can Be Done**: Highlight the filter feature more prominently in the dashboard's interface and provide tooltips or instructions on how to best use them for faster navigation.
+
+2. **Ranking or Comparison Feature**:
+   - **Feedback**: Participants mentioned the absence of a ranking system or a way to see trending content.
+   - **What Can Be Done**: Introduce a ranking feature based on genre popularity or a "Top Titles" section to show trending or top-rated content.
+
+3. **Visual Design**:
+   - **Feedback**: While the color scheme was appreciated, some users suggested adding gradient colors for better visual differentiation between platforms.
+   - **What Can Be Done**: Implement gradient color schemes to make comparisons between platforms more intuitive and visually appealing.
+
+4. **Highlighting Platform Strengths**:
+   - **Feedback**: Users suggested adding an overview of what each platform excels in, like a "Platform Strengths" summary for quick insights.
   
-- **Follow-up Question**:  
-   "When looking at your favorite genre, do you usually check multiple platforms, or do you stick to one? Why?"
-
-- **Dashboard Usability Question**:  
-   "Looking at this dynamic genre dashboard, how do you feel about its ease of use in helping you identify the right platform for the genre you want to watch?"
-
-### **Findings from User Interviews**
-- **Consistent Feedback**:  
-   - All three users liked the **Dynamic Genre Dashboard**, particularly the ease of comparing content offerings for their favorite genres. 
-   - The **heatmap** was found to be especially helpful for users to see at a glance how many titles per genre were available across platforms.
-  
-- **Conflicting Observations**:  
-   - One user felt overwhelmed by the amount of data presented in the **line graph** showing how content evolved over time, while another appreciated the historical perspective.  
-   - Casual viewers expressed a preference for simpler, high-level insights, whereas media enthusiasts enjoyed the deeper dive into content evolution over time.
-
-### **Planned Changes Based on Feedback**
-- **Simplicity for Casual Viewers**: I plan to create a **quick summary section** that highlights key takeaways, so users who don't want to analyze too much data can still make quick decisions.
-  
-- **Enhanced Filtering**: Based on feedback, I will improve the filtering options on the dashboard to allow users to drill down further into niche genres or remove certain platforms from the comparison if they are not interested in them.
-
----
-
-By implementing these changes, I aim to make the dashboard more user-friendly for all types of viewers, ensuring that everyone can benefit from the insights without feeling overwhelmed.
 
