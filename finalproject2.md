@@ -110,4 +110,23 @@ I will reach out to people in these groups who share similar viewing habits and 
 4. **Highlighting Platform Strengths**:
    - **Feedback**: Users suggested adding an overview of what each platform excels in, like a "Platform Strengths" summary for quick insights.
   
+## Data
+### Original Data Sources
+The datasets used in this project were sourced from Kaggle. You can find the original data at the following links:
 
+- [Netflix Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- [Amazon Prime Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+- [Hulu Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows)
+- [Disney Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
+- [Netflix Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/netflix_titles.csv)
+- [Hulu Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/hulu_titles.csv)
+- [Disney Plus Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/disney_plus_titles.csv)
+- [Amazon Prime Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/amazon_prime_titles.csv)
+
+These datasets were used to analyze and visualize genre trends and platform strategies across different streaming services.
+
+### Project Data
+The cleaned and processed datasets used for this project are available for download:
+
+- [Streaming Data CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/streaming_data_cleaned.csv))
+- [Python File](app.py)
