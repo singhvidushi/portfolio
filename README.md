@@ -16,6 +16,7 @@ My goal is to refine my skills in crafting narratives that not only inform but a
 
 ### Final Project
 [Part 1](/final_project.md)
+
 [Part 2](/finalproject2.md)
 
 ### Class Exercise
