@@ -27,7 +27,7 @@
 
 #### **3. How My Project Helps** 
    > I will use data from Netflix, Amazon Prime, Hulu, and Disney Plus to help viewers make informed choices.
-   > Heatmap of Unique Titles per Genre Across Platforms to present the distribution of genres across platforms. Highlight key genres, demonstrating how viewers can use this data to pinpoint the best platform for their favorite content.
+   > Heatmap of Unique Titles per Genre Across Platforms to present the distribution of genres across platforms. 
 <div class='tableauPlaceholder' id='viz1727922281844' style='position: relative'><noscript><a href='#'><img alt='Distribution Of Genres Across Platforms ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X6&#47;X68N7D239&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;X68N7D239' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X6&#47;X68N7D239&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>         
 <script type='text/javascript'>                  
   var divElement = document.getElementById('viz1727922281844');        
