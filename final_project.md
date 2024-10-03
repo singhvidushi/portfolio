@@ -3,7 +3,7 @@
   
 ## Outline
 ### Context and Background: 
-Streaming platforms have completely changed how we watch movies and TV shows. Instead of flipping through cable channels or heading to the theater, we now have a world of content at our fingertips. With major players like Amazon Prime, Disney Plus, Hulu, and Netflix all vying for our attention, they each have to be smart about what they offer. It’s not just about having a big library—it’s about having the right content that speaks to their viewers. This project dives into how these platforms use different genres to attract and keep their audiences hooked, exploring how their strategies have evolved from 1920 to 2021.
+Streaming platforms have changed the way we consume content. With an overwhelming number of options from platforms like Amazon Prime, Disney Plus, Hulu, and Netflix, the challenge for binge-watchers isn’t just what to watch, but where to watch it. This project analyzes how each platform curates its content by genre, helping viewers make informed decisions about which platform best aligns with their favorite genres.
 
 ### Why This Topic? 
 **Personal Motivation:** I’ve always been fascinated by the power of stories and how they can shape our perspectives. As an avid viewer, I often wonder why I’m drawn to certain shows and movies on different platforms. Why do I find myself binge-watching dramas on Netflix but switch to documentaries on Amazon Prime? This project is my way of answering those questions. It’s personal because I’m trying to understand my own viewing habits and the subtle ways these platforms influence what I choose to watch.
@@ -12,27 +12,22 @@ Streaming platforms have completely changed how we watch movies and TV shows. In
 
 ### Reader's Perspective:
 #### Understanding the Reader’s Needs:
-- **As a reader, I want to** understand the different genre strategies used by Amazon Prime, Disney Plus, Hulu, and Netflix **so that I can** see how each platform attracts and retains its unique audience.
-- **As a reader, I want to** explore how genre trends have evolved over time across these platforms **so that I can**  gain insights into changing viewer preferences and predict future content trends.
-- **As a reader, I want to** learn how my own viewing habits might be influenced by the strategic content curation of these platforms **so that I can** become more conscious of the choices I make when selecting what to watch.
-
-This project is designed to guide you through the genre strategies of these streaming giants, showing how they have evolved over time and how they resonate with different audiences. Whether you're a media professional, a content creator, or simply a curious viewer, this analysis will offer you a deeper understanding of the dynamics at play.
+- **As a reader, I want to** find out which platform—Amazon Prime, Disney Plus, Hulu, or Netflix—offers the most content in my favorite genres **so that I can** quickly decide where to subscribe and watch without spending time browsing across different services.
 
 #### Call to Action:
-- **As a reader, I want to** identify the unique content strategies of each streaming platform **so that I can** make informed decisions, whether as a media professional looking to enter the streaming industry, a content creator aiming to align with platform strategies, or a viewer wanting to understand the dynamics behind the shows and movies I watch. **I can do this by** engaging with the data-driven visualizations and analyses provided in the project to see how genre trends and audience demographics align over time.
+- **As a reader, I want to** use the data and insights from this project to identify which platform—Amazon Prime, Disney Plus, Hulu, or Netflix—offers the most content in my favorite genres **so that I can** make an informed decision about where to subscribe and stream next. **I can do this by** exploring the genre breakdowns and platform comparisons provided in the visualizations to quickly see which service aligns with my preferences.
 
 #### Reader Journey Map:
 <img src="Reader journey.jpg" alt="Reader journey" width="900" />
 
 ### Purpose & Significance:
-This project aims to shed light on how genre trends have shifted over the years and what that says about each platform's strategy. By focusing on the alignment between genre offerings and target demographics, it will reveal the sophisticated content curation that sets each platform apart. 
-Understanding these dynamics is crucial for several reasons:
-- **For Media Professionals:** To gain insights into how streaming platforms position their content and to inform strategies that align with platform identities and target audiences.
-- **For Content Creators:** To learn where to pitch their projects and tailor content to fit the style and preferences of different platforms.
-- **For Viewers:** To become more aware of their own viewing habits and how they are influenced by the platforms' strategic decisions.
-By the end of this project, you will not only see how content strategies are tailored to specific audiences but also understand the broader implications of these trends for the future of streaming.
+This project is designed to help both **normal viewers** and **binge-watchers** easily find out which streaming platform—**Amazon Prime, Disney Plus, Hulu, or Netflix**—offers the most content in their favorite genres. By analyzing how genre trends have evolved over time, it reveals the strategic curation that each platform uses to attract and retain its audience.
 
+Understanding these genre strategies is valuable for viewers for several reasons:
+- **For Normal Viewers:** To quickly discover which platform has the best selection of their favorite genres, making it easier to choose where to watch next.
+- **For Binge-Watchers:** To identify the platform that offers the deepest library of their preferred genres, maximizing their streaming experience.
 
+By the end of this project, you'll have a clear understanding of **which platform to choose** based on your genre preferences, allowing you to make smarter streaming decisions and enjoy more of the content you love.
   
 ## Sketches
 ### Sketch 1: Overall Genre Trend Across Platforms (Stacked Area Chart)
