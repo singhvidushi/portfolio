@@ -57,4 +57,45 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);            
 </script>
 
+## **User Research and Interviews**
+
+For this part of the project, I developed a user research protocol to gather insights from three different individuals who represent my target audience. The goal of this research is to ensure that the visualizations effectively convey the story and help viewers make informed decisions about their streaming platform preferences.
+
+### **Target Audience**
+- **Binge-watchers** who spend a significant amount of time watching content on streaming platforms like Netflix, Amazon Prime, Hulu, and Disney+.
+- **Casual viewers** who also use these platforms but want a more efficient way to choose content based on their favorite genres.
+
+### **Approach to Identifying Interviewees**
+- I selected three individuals from different viewing habits: 
+  1. A **heavy binge-watcher** who watches shows for 3+ hours daily.
+  2. A **casual viewer** who watches a mix of TV shows and movies but often struggles to find what to watch.
+  3. A **media enthusiast** who prefers niche content across multiple genres.
+  
+### **Interview Script**
+- **Introductory Question**:  
+   "How do you typically decide what to watch on streaming platforms like Netflix or Amazon Prime? How much time do you spend scrolling to find something?"
+  
+- **Follow-up Question**:  
+   "When looking at your favorite genre, do you usually check multiple platforms, or do you stick to one? Why?"
+
+- **Dashboard Usability Question**:  
+   "Looking at this dynamic genre dashboard, how do you feel about its ease of use in helping you identify the right platform for the genre you want to watch?"
+
+### **Findings from User Interviews**
+- **Consistent Feedback**:  
+   - All three users liked the **Dynamic Genre Dashboard**, particularly the ease of comparing content offerings for their favorite genres. 
+   - The **heatmap** was found to be especially helpful for users to see at a glance how many titles per genre were available across platforms.
+  
+- **Conflicting Observations**:  
+   - One user felt overwhelmed by the amount of data presented in the **line graph** showing how content evolved over time, while another appreciated the historical perspective.  
+   - Casual viewers expressed a preference for simpler, high-level insights, whereas media enthusiasts enjoyed the deeper dive into content evolution over time.
+
+### **Planned Changes Based on Feedback**
+- **Simplicity for Casual Viewers**: I plan to create a **quick summary section** that highlights key takeaways, so users who don't want to analyze too much data can still make quick decisions.
+  
+- **Enhanced Filtering**: Based on feedback, I will improve the filtering options on the dashboard to allow users to drill down further into niche genres or remove certain platforms from the comparison if they are not interested in them.
+
+---
+
+By implementing these changes, I aim to make the dashboard more user-friendly for all types of viewers, ensuring that everyone can benefit from the insights without feeling overwhelmed.
 
