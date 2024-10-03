@@ -3,6 +3,8 @@
   
 ## Wireframes and storyboards:
 <img src="Story.png" alt="Sketch 2" width="700" />
+### Persona
+<img src="Persona.png" alt="Sketch 2" width="700" />
 
 ### **Story Flow:**
 
