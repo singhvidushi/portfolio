@@ -38,15 +38,23 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
-#### **4. Case Example: Comedy Content**
-   > **Introduction to Specific Genre**:  
-   > Use Comedy as a case study. Show how platforms like Netflix, Amazon Prime, Hulu, and Disney+ compare in terms of the volume of Comedy titles and platform priorities.  
-   > Reference data points like the number of Comedy titles per platform and the overall percentage share of Comedy within each platform’s catalog.
+#### **4. Dynamic Genre Dashboard Overview**
+> The **Dynamic Genre Dashboard** allows users to select any genre, such as Comedy, Drama, Action, or others, and see how streaming platforms compare in terms of content offerings. The dashboard is interactive, featuring several key sections:
+> 
+> - **Bar Chart for Genre Titles**: This bar chart updates based on the selected genre, displaying the total number of titles available on Netflix, Amazon Prime, Hulu, and Disney+. It helps users quickly identify which platform has the most content for their chosen genre.
+> 
+> - **Treemap for Platform Prioritization**: This treemap highlights the percentage share of the selected genre within each platform's overall content library. It helps users understand how much focus each platform places on that genre relative to others.
+> 
+> - **Line Graph for Genre Evolution**: This line graph shows how the selected genre’s content has evolved over time across platforms. It provides users with insights into historical trends and growth for that genre on Netflix, Hulu, Disney+, and Amazon Prime.
 
-   > **Visualization**:  
-   > Use the **Comedy Dashboard** to illustrate:  
-   > - Which platform has the largest collection of Comedy titles.  
-   > - How Comedy content has evolved over time on each platform.  
-   > - How Comedy compares in terms of genre focus across platforms.
+> By selecting different genres, users can easily explore which platform best suits their preferences and make more informed viewing decisions.
+<div class='tableauPlaceholder' id='viz1727922931456' style='position: relative'><noscript><a href='#'><img alt='Stream Smart: Discover the Best Platforms for Your Favorite Genres!Curious about where to stream your favorite genres? This dashboard breaks down the top streaming platforms — Netflix, Amazon Prime, Hulu, and Disney+ , showing you the number of titles av ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NQ&#47;NQZCP8C96&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;NQZCP8C96' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NQ&#47;NQZCP8C96&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>            
+<script type='text/javascript'>                 
+  var divElement = document.getElementById('viz1727922931456');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                    
+  var scriptElement = document.createElement('script');                   
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);            
+</script>
 
 
