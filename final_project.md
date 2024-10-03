@@ -34,37 +34,28 @@ By the end of this project, you'll have a clear understanding of **which platfor
 <img src="OverallGenreTrend.png" alt="Sketch 1" width="700" />
 
 #### Purpose: 
-This sketch serves as the foundation for understanding the evolution of genres over time across all streaming platforms. It visualizes the distribution of major genres, such as Drama, Comedy, Action, Documentary, Kids, Sci-Fi, and Romance, from 1920 to 2021.
-The sketch shows a multi-layered area chart with the x-axis representing the years (1920-2021) and the y-axis representing the number of titles released per genre each year. Each layer is color-coded to represent a different genre, with annotations for key turning points in genre popularity, such as the emergence of the Sci-Fi genre in the 1950s or the surge in documentaries in the 2010s. This sketch is the starting point for understanding the broader trends before delving into platform-specific strategies.
+This visualization is designed to illustrate how genre trends have evolved over time across streaming platforms, providing insights into the shifting popularity of key genres like Drama, Comedy, Action, Documentary, and others. By tracking the number of titles released per genre from 1920 to 2021, the chart helps viewers understand how each platform has adjusted its content strategy to cater to changing audience preferences.
 
 #### Why I’ve Chosen This Visualization:
-- **Historical Perspective:** The stacked area chart provides a clear visual representation of how genre popularity has shifted over the decades, offering a broad historical context. It helps identify periods of significant change, such as the rise of specific genres or the decline of others.
-- **Visual Impact:** The flowing design of the stacked area chart captures the fluid nature of genre evolution, making it easier for the viewer to see how genres have waxed and waned in popularity over time.
-- **Insightful Trends:** By showing the overall trends for all platforms combined, this visualization sets the stage for a deeper exploration into individual platform strategies. It provides a comprehensive view of the streaming landscape, showing how collective audience preferences have changed.
+A stacked area chart effectively highlights both the overall growth of content and the shifting prominence of individual genres, offering a clear view of how platform strategies and genre focus have evolved over the decades.
 
 ### Sketch 2: Genre Popularity by Platform (Grouped Bar Chart)
 <img src="GenrePopularity.png" alt="Sketch 2" width="700" />
 
 #### Purpose: 
-This sketch breaks down the genre distribution by each streaming platform (Netflix, Hulu, Amazon Prime, Disney Plus) for key genres, showing how each platform focuses on different types of content to differentiate themselves in a competitive market.
-The sketch features a horizontal bar chart with genres listed along the y-axis and the number of titles on the x-axis. Each genre has four bars representing the platforms, color-coded to differentiate between Netflix, Hulu, Amazon Prime, and Disney Plus. Annotations are included to highlight key observations, such as Hulu's strong emphasis on documentaries or Netflix's expansive drama library. This visualization allows the viewer to quickly grasp the content focus of each platform and how they compete in various genres.
+This visualization compares the popularity of genres across different streaming platforms—Netflix, Hulu, Amazon Prime, and Disney Plus—to reveal which platform offers the most content in each genre. It focuses on key genres like Drama, Sci-Fi, Documentaries, Kids, and Action.
 #### Why I’ve Chosen This Visualization:
-- **Platform Comparison:** The grouped bar chart allows for direct comparison between platforms, highlighting how each service invests in different genres. It makes it easy to see, for instance, that Netflix might prioritize Drama while Disney Plus leans heavily into Family/Kids content.
-- **Content Strategy Insight:** By visualizing genre distribution side-by-side, this chart provides a snapshot of each platform’s content strategy, revealing which genres are most significant for each service.
-- **Audience Targeting:** This visualization also hints at the target demographics of each platform, as different genres appeal to different audiences. It helps the viewer understand why certain platforms might be more attractive to specific audience segments.
+A grouped bar chart allows for a clear, side-by-side comparison of how each platform stacks up in specific genres. It visually highlights the differences in content offerings, making it easy to see which platform excels in particular genres, helping viewers make more informed decisions about where to watch based on their preferences.
 
 ### Sketch 3: Emerging and Declining Genre Trends (Multi-Line Graph)
 <img src="EmergingDecliningTrends.png" alt="Sketch 3" width="700" />
 
 #### Purpose: 
-This sketch focuses on the changing trajectories of specific genres across all platforms, illustrating how some genres have gained popularity while others have declined over the past decades.
-The sketch depicts multiple lines representing different genres like Drama, Comedy, Sci-Fi, Documentary, Action, and Kids, plotted against the x-axis of years (1950-2030). Each line shows the number of titles released over time, with distinct peaks and troughs marking significant shifts. Annotations indicate key events that may have influenced these trends, such as Netflix’s investment in original Sci-Fi series or Disney Plus’s emphasis on family content. This visualization helps the viewer see not just the current state but the potential trajectory of genre trends across platforms.
+This visualization shows the emerging and declining trends of various genres. By tracking the number of titles in each genre over the decades, it highlights which genres are gaining or losing popularity on various streaming platforms.
 
 #### Why I’ve Chosen This Visualization:
-- **Dynamic Insights:** The multi-line graph highlights the dynamic nature of genre popularity, showcasing genres that are currently trending upward or experiencing a decline. It provides a more nuanced view of the data, emphasizing the evolving tastes of audiences and the adaptive strategies of platforms.
-- **Predictive Analysis:** This visualization can also serve as a predictive tool, suggesting which genres might continue to grow or fall in the coming years. It's particularly useful for understanding the current state of the streaming market and potential future directions.
-- **Cross-Platform View:** Unlike the stacked area chart, which focuses on total trends, this line graph breaks down the genre changes more granularly, allowing for cross-platform comparisons and a deeper dive into emerging genres.
-  
+A multi-line graph is ideal for showing trends over time, allowing viewers to see the rise or decline of different genres at a glance. This format helps viewers understand how platforms have shifted their focus on certain genres over the years, giving a clear view of long-term genre dynamics and helping them make better choices about which platforms align with their genre preferences.
+
 ## Data
 ### Original Data Sources
 The datasets used in this project were sourced from Kaggle. You can find the original data at the following links:
@@ -73,16 +64,18 @@ The datasets used in this project were sourced from Kaggle. You can find the ori
 - [Amazon Prime Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 - [Hulu Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows)
 - [Disney Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
+- [Streaming Data CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/netflix_titles.csv)
+- [Hulu Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/hulu_titles.csv)
+- [Disney Plus Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/disney_plus_titles.csv)
+- [Amazon Prime Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/amazon_prime_titles.csv)
 
 These datasets were used to analyze and visualize genre trends and platform strategies across different streaming services.
 
 ### Project Data
 The cleaned and processed datasets used for this project are available for download:
 
-- [Netflix Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/netflix_titles.csv)
-- [Hulu Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/hulu_titles.csv)
-- [Disney Plus Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/disney_plus_titles.csv)
-- [Amazon Prime Titles CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/amazon_prime_titles.csv)
+- [Streaming Data CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/streaming_data_cleaned.csv))
+- [Python File](app.py)
 
 ## Method & Medium
 
