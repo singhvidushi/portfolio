@@ -102,17 +102,14 @@ I will reach out to people in these groups who share similar viewing habits and 
    - **Feedback**: Users wanted more intuitive use of the filters for quicker decisions, though they are already present.
    - **What Can Be Done**: Highlight the filter feature more prominently in the dashboard's interface and provide tooltips or instructions on how to best use them for faster navigation.
 
-2. **Ranking or Comparison Feature**:
-   - **Feedback**: Participants mentioned the absence of a ranking system or a way to see trending content.
-   - **What Can Be Done**: Introduce a ranking feature based on genre popularity or a "Top Titles" section to show trending or top-rated content.
+2. **Ranking and Recommendation Feature**:
+   - **Feedback**: Participants mentioned the absence of a ranking system and a way to see recommended content based on their preferences.
+   - **What Can Be Done**: Add a Recommendation feature where users can see suggested movies based on the platform they select.
 
-3. **Visual Design**:
-   - **Feedback**: While the color scheme was appreciated, some users suggested adding gradient colors for better visual differentiation between platforms.
-   - **What Can Be Done**: Implement gradient color schemes to make comparisons between platforms more intuitive and visually appealing.
+3. **Personalized Suggestions**:
+   - **Feedback**: Users suggested the ability to get personalized movie recommendations.
+   - **What Can Be Done**: Implement a Recommendation system where users receive suggested movies tailored to the platform they select, providing a more personalized content discovery experience.
 
-4. **Highlighting Platform Strengths**:
-   - **Feedback**: Users suggested adding an overview of what each platform excels in, like a "Platform Strengths" summary for quick insights.
-  
 ---
 
 ## Data
