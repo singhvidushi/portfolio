@@ -1,4 +1,4 @@
-| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Debt](/dataviz.md) | [Critique by Design](/assignment3.md) | [Final Project I](/final_project.md) | [Final Project II](/finalproject2.md) | [Final Project III](#final-project-part-three) |
+| [Home Page](https://singhvidushi.github.io/portfolio/) | [Visualizing Debt](/dataviz.md) | [Critique by Design](/assignment3.md) | [Final Project I](/final_project.md) | [Final Project II](/finalproject2.md) | [Final Project III](#final-project-part-three) |
 
 # <span style="color:#ff6347">**Portfolio**</span>
 
