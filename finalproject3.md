@@ -27,6 +27,7 @@ Based on feedback from designers and users, I implemented the following changes:
 - **Movie/TV Show Recommendations**: I added a feature that recommends 3 specific titles based on the genre the user selects. This makes the dashboard more interactive and provides personalized suggestions, helping users make quicker decisions.
   
 - **Dark Mode**: Since many users binge-watch content at night, they suggested that white backgrounds were too straining for their eyes. In response, I added a **dark mode** to the dashboard, with a button at the top-right corner to toggle between day and night modes.
+- **Distribution of Genres Across Platforms**: I made edits to this visualization to include a **filter** where users can now choose between **content types**—either **movies** or **TV shows**. This filter allows users to drill down into the type of content they are most interested in, making the dashboard more customizable and relevant to their viewing preferences.
 
 - **Descriptive Header**: I revised the header to provide more clarity and context. The original text was adjusted to better communicate the purpose of the dashboard:
 
@@ -40,7 +41,8 @@ Based on feedback from designers and users, I implemented the following changes:
 
   *Explore how top streaming platforms like Netflix, Amazon Prime, Hulu, and Disney+ stack up in offering your favorite content genres. Dive into the data to see platform preferences, track content trends over time, and get recommendations based on your selection. Make smarter streaming decisions with insights tailored to your viewing tastes!*
 
-
+### Final Dashboard
+<div class='tableauPlaceholder' id='viz1728599537963' style='position: relative'><noscript><a href='#'><img alt='Stream Smart: Discover the Best Platforms for Your Favorite Genres!Explore how top streaming platforms like Netflix, Amazon Prime, Hulu, and Disney+ stack up in offering your favorite content genres. Dive into the data to see platform preferences, track  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FindYourPerfectStreamDiscoverWhichPlatformsOffertheBestGenreChoices&#47;Final&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FindYourPerfectStreamDiscoverWhichPlatformsOffertheBestGenreChoices&#47;Final' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FindYourPerfectStreamDiscoverWhichPlatformsOffertheBestGenreChoices&#47;Final&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1728599537963');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1527px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 ---
 
 ## What I Learned
@@ -66,6 +68,15 @@ This project gave me the opportunity to explore various tools and learn more abo
 
 By integrating these findings, I was able to refine the dashboard to cater to users' content preferences more effectively, and ensure that the visualizations and features helped users make smarter decisions about their viewing habits.
 
+---
+
+## Reflection and Final Thoughts
+
+Completing this project has been an enriching experience that blended my interests in storytelling, data analysis, and user experience design. By analyzing how streaming platforms curate their content by genre, I not only deepened my understanding of content strategies but also honed my skills in data visualization and interactive dashboard design.
+
+The feedback from UX designers was instrumental in refining the visual and interactive aspects of my project, ensuring that the final deliverables are both aesthetically pleasing and functionally effective. This iterative process underscored the importance of user-centered design and the value of incorporating diverse perspectives to enhance the overall quality of the work.
+
+Moving forward, I aim to apply these insights to future projects, continuing to prioritize user experience and data-driven storytelling to create impactful and engaging content.
 
 ---
 
@@ -108,12 +119,4 @@ All datasets, images, and external materials used in this project have been appr
   - [Flourish](https://flourish.studio/)
   - [Shorthand](https://www.shorthand.com/)
 
----
 
-## Reflection and Final Thoughts
-
-Completing this project has been an enriching experience that blended my interests in storytelling, data analysis, and user experience design. By analyzing how streaming platforms curate their content by genre, I not only deepened my understanding of content strategies but also honed my skills in data visualization and interactive dashboard design.
-
-The feedback from UX designers was instrumental in refining the visual and interactive aspects of my project, ensuring that the final deliverables are both aesthetically pleasing and functionally effective. This iterative process underscored the importance of user-centered design and the value of incorporating diverse perspectives to enhance the overall quality of the work.
-
-Moving forward, I aim to apply these insights to future projects, continuing to prioritize user experience and data-driven storytelling to create impactful and engaging content.
