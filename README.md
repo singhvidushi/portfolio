@@ -1,22 +1,22 @@
 | [Home Page](https://singhvidushi.github.io/portfolio/) | [Visualizing Debt](/dataviz.md) | [Critique by Design](/assignment3.md) | [Final Project I](/final_project.md) | [Final Project II](/finalproject2.md) | [Final Project III](#final-project-part-three) |
 
-# <span style="color:#800080">**Portfolio**</span>
+# **Portfolio**
 
 ---
 
-## <span style="color:#800080">**About Me**</span>
+## **About Me**
 
 Hello! I'm **Vidushi Singh**, currently pursuing my Master's in Information Systems Management at Carnegie Mellon University. With a background in product management and technology consulting, I have a deep passion for leveraging data to tell compelling stories that drive business decisions. My professional journey has been shaped by roles that blend data analysis, strategic thinking, and user experience, enabling me to create impactful products and solutions.
 
 ---
 
-## <span style="color:#800080">**What I Hope to Learn**</span>
+## **What I Hope to Learn**
 
 My goal is to refine my skills in crafting narratives that not only inform but also inspire action, bridging the gap between data and decision-making. I'm particularly interested in mastering tools and methodologies that help communicate data-driven stories effectively to diverse stakeholders.
 
 ---
 
-## <span style="color:#800080">**Class Exercise**</span> (Trust in News Organization)
+## **Class Exercise** (Trust in News Organization)
 
 <div class='tableauPlaceholder' id='viz1725600202188' style='position: relative; border-radius: 10px; padding: 20px;'>
   <noscript>
@@ -52,8 +52,8 @@ My goal is to refine my skills in crafting narratives that not only inform but a
 
 ---
 
-### <span style="color:#800080">**Web Page URL**</span>  
+### **Web Page URL**  
 [My Portfolio URL](https://singhvidushi.github.io/portfolio/)
 
-### <span style="color:#800080">**GitHub Repository**</span>  
+### **GitHub Repository**  
 [This repository](https://github.com/singhvidushi/portfolio/tree/main)
