@@ -15,7 +15,7 @@ In the final portion of my project, I gathered feedback from people outside of m
 - **Improved Clarity**: He suggested that the dashboard's headers and descriptions needed more clarity to help users immediately understand the purpose and navigate the content effectively.
 
 - **Shorthand Presentation Enhancements**: Feedback pointed to enhancing the visuals within Shorthand, recommending better use of **contrast** and **typography** for easier readability.
-- 
+
 ---
 
 ## Changes After Part II
