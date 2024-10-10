@@ -130,5 +130,5 @@ These datasets were used to analyze and visualize genre trends and platform stra
 ### Project Data
 The cleaned and processed datasets used for this project are available for download:
 
-- [Streaming Data CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/streaming_data_cleaned.csv))
+- [Streaming Data CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/streaming_data_cleaned.csv)
 - [Python File](app.py)
