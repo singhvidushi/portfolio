@@ -54,10 +54,6 @@ By integrating these findings, I was able to refine the dashboard to cater to us
 2. **Final Data Story on Shorthand**: [Link to Final Data Story](https://carnegiemellon.shorthandstories.com/stream-smart/index.html)
    - The final data story is published on Shorthand, presenting an engaging narrative complemented by interactive visualizations. This publicly accessible asset showcases the comprehensive analysis and insights derived from the project.
 
-3. **Word Document for TurnItIn**:
-   - **[Download Word Document](https://github.com/yourusername/content-wars-project/blob/main/Final_Report.docx)**
-   - This document includes the text from the Shorthand data story, ensuring that all content is submitted correctly through TurnItIn. All issues flagged by TurnItIn have been addressed to maintain academic integrity.
-
 ### Citations and References
 
 All datasets, images, and external materials used in this project have been appropriately cited to ensure compliance with copyright laws and academic integrity standards. Below are the references:
