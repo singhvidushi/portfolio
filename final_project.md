@@ -1,6 +1,7 @@
 # Final Project: Content Wars: How Streaming Giants Tailor Genres to Captivate Their Audiences
+---
 ## Part I
-  
+--- 
 ## Outline
 ### Context and Background: 
 Streaming platforms have changed the way we consume content. With an overwhelming number of options from platforms like Amazon Prime, Disney Plus, Hulu, and Netflix, the challenge for binge-watchers isn’t just what to watch, but where to watch it. This project analyzes how each platform curates its content by genre, helping viewers make informed decisions about which platform best aligns with their favorite genres.
@@ -28,6 +29,8 @@ Understanding these genre strategies is valuable for viewers for several reasons
 - **For Binge-Watchers:** To identify the platform that offers the deepest library of their preferred genres, maximizing their streaming experience.
 
 By the end of this project, you'll have a clear understanding of **which platform to choose** based on your genre preferences, allowing you to make smarter streaming decisions and enjoy more of the content you love.
+
+---
   
 ## Sketches
 ### Sketch 1: Overall Genre Trend Across Platforms (Stacked Area Chart)
@@ -56,6 +59,8 @@ This visualization shows the emerging and declining trends of various genres. By
 #### Why I’ve Chosen This Visualization:
 A multi-line graph is ideal for showing trends over time, allowing viewers to see the rise or decline of different genres at a glance. This format helps viewers understand how platforms have shifted their focus on certain genres over the years, giving a clear view of long-term genre dynamics and helping them make better choices about which platforms align with their genre preferences.
 
+---
+
 ## Data
 ### Original Data Sources
 The datasets used in this project were sourced from Kaggle. You can find the original data at the following links:
@@ -77,25 +82,25 @@ The cleaned and processed datasets used for this project are available for downl
 - [Streaming Data CSV](https://raw.githubusercontent.com/singhvidushi/portfolio/refs/heads/main/streaming_data_cleaned.csv))
 - [Python File](app.py)
 
+---
+
 ## Method & Medium
 
-For this project, I will employ a combination of tools and platforms to perform data analysis, create visualizations, and present the findings in a clear and engaging manner. The approach is divided into three main stages: data preparation, visualization, and presentation.
+This project uses various tools for data analysis, visualization, and presentation, divided into three stages: data preparation, visualization, and presentation.
 
 ### 1. Data Preparation
-**Tools Used:** Excel and Python  
-**Process:**
-- **Data Cleaning and Transformation:** The raw data sourced from Kaggle will be cleaned and prepared using Excel and Python. This includes handling missing values, standardizing genre names, filtering irrelevant data, and merging datasets where necessary.
-- **Data Analysis:** Using Python libraries such as Pandas and NumPy, I will conduct preliminary analyses to understand the structure and characteristics of the data. This step will help identify key insights and trends that will be explored in the visualizations.
+**Tools:** Excel, Python  
+- **Data Cleaning:** Using Excel and Python to handle missing values, standardize genre names, and merge datasets from Kaggle.
+- **Data Analysis:** Preliminary analysis with Pandas and NumPy to explore the data structure and trends.
 
 ### 2. Data Visualization
-**Tool Used:** Tableau  
-**Process:**
-- **Interactive Visualizations:** Tableau will be used to create interactive and dynamic visualizations that allow users to explore the data. This includes stacked area charts, grouped bar charts, and multi-line graphs that showcase the evolution of genres, platform-specific strategies, and emerging trends.
-- **Customization and Interactivity:** The visualizations will be customized with filters for genres, platforms, and years, enabling users to delve deeper into specific aspects of the data. Annotations and tooltips will be added to highlight key insights and provide additional context.
+**Tools:** Tableau, Flourish  
+- **Interactive Visualizations:** Tableau will create stacked area charts, grouped bar charts, and multi-line graphs showing genre evolution and platform strategies.
+- **Flourish for Pie Charts:** Flourish will be used to create pie charts for clear distribution visualization.
+- **Customization:** Filters for genres, platforms, and years, with tooltips and annotations to highlight insights.
 
 ### 3. Presentation
-**Tool Used:** Shorthand  
-**Process:**
-- **Narrative Structure:** The visualizations and findings will be embedded in a Shorthand presentation to create a cohesive and engaging narrative. This platform allows for a seamless integration of text, images, and interactive charts, making the content accessible and visually appealing.
-- **Storytelling:** The presentation will guide the audience through the evolution of streaming platforms, their genre strategies, and how these have shaped audience preferences over time. Key sections will include context and background, major insights from the visualizations, and actionable conclusions.
+**Tool:** Shorthand  
+- **Narrative:** Visualizations will be embedded in Shorthand to create an engaging story that highlights trends and insights.
+
 
