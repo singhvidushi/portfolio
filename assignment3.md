@@ -1,4 +1,6 @@
 # Assignment: Critique by Design with Tableau (MakeoverMonday)
+---
+
 ## Step 1: Choose a data visualization from MakeoverMonday
 [Generative AI Search Trends in the United States](https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng)
 Souce: Google Trends
@@ -10,6 +12,8 @@ I chose the "Generative AI Search Trends in the United States" visualization fro
 - DALL-E
 
 The visualization's use of a geographic map and bar chart allows for quick comparisons, but there are opportunities for improvement in displaying detailed comparisons, enhancing interactivity, and addressing accessibility. These factors make it a compelling choice for a thoughtful critique and redesign.
+
+---
 
 ## Step 2: Critique the data visualization
 <table>
@@ -84,6 +88,8 @@ Stephen Few's method focuses on seven criteria: usefulness, completeness, percep
 
 I used a blend of both methods to ensure a **comprehensive critique**, blending Few’s in-depth analysis with the quick, actionable insights of Good Charts. This provided a balanced evaluation that covered both **strategic depth** and **efficient insight** into what worked and what needed improvement.
 
+---
+
 ## Step 3: Sketch out a solution
 #### Map Sketch
 <img src="Sketch.jpg" alt="Handdrawn1" width="700" />
@@ -94,6 +100,8 @@ I created the map sketch to provide a clearer representation of AI tool usage ac
 <img src="Sketch 2.jpg" alt="Handdrawn2" width="700" />
 
 I created the bar graph sketch to improve data comparison by including stacked bars that show the proportion of interest for each tool within a state. This allows for a side-by-side comparison without needing to hover for details, improving user engagement and ease of use. 
+
+---
 
 ## Step 4: Test the solution
 <table>
@@ -144,6 +152,8 @@ I created the bar graph sketch to improve data comparison by including stacked b
   </tr>
 </table>
 
+---
+
 ## Step 5: Build your solution
 ### Viz 1
 <div class='tableauPlaceholder' id='viz1726548166974' style='position: relative'><noscript><a href='#'><img alt='Exploring AI Image Generation Trends Across U.S. StatesThis interactive map features donut charts to represent the search interest distribution for DALL-E, MidJourney, and Stable Diffusion across different U.S. states. Each chart visualizes the proporti ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YS&#47;YS7CDR5GQ&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;YS7CDR5GQ' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YS&#47;YS7CDR5GQ&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>             
@@ -185,6 +195,8 @@ Video Reference: [#WatchMeViz Generative AI Search Trends in the United States](
 <br>
 ### Class Critique
 In the class critique, it was pointed out that the x-axis label was repetitive, particularly with the inclusion of "statewide," which wasn’t necessary. Additionally, the bars in the chart were too wide, making the visualization feel cramped and harder to interpret. The feedback also mentioned that the map visualization wasn’t useful, as it was unclear and didn’t facilitate easy comparison between states, suggesting that the bar chart alone would suffice. Finally, it was recommended that the header could be more engaging to better capture attention, and it was emphasized to consider the intended audience, which includes marketers, AI developers, and data analysts.
+
+---
 
 ## Step 6: Final solution
 <div class='tableauPlaceholder' id='viz1726595355062' style='position: relative'><noscript><a href='#'><img alt='AI Image Wars: U.S. States&#39; Search PreferencesThis visualization highlights regional preferences for three major AI image generation tools—DALL-E, MidJourney, and Stable Diffusion—based on search interest across U.S. states. Users can interact by select ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;6J&#47;6JW7Y8H9P&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;6JW7Y8H9P' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;6J&#47;6JW7Y8H9P&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>        
