@@ -14,10 +14,8 @@ The intended audience for this project includes **binge-watchers** and **regular
 In the final portion of my project, I gathered feedback from people outside of my original personas to see if the dashboard was intuitive and easy to use. The goal was to ensure that users could understand the insights and interact with the dashboard effectively. 
 - **Improved Clarity**: He suggested that the dashboard's headers and descriptions needed more clarity to help users immediately understand the purpose and navigate the content effectively.
 
-- **Shorthand Presentation Enhancements**: Feedback pointed to enhancing the visuals within Shorthand, recommending better use of **contrast** and **typography** for easier readability. 
-
-- **PPT Color Scheme**: He recommended using more **contrasting colors** in the presentation slides to make content stand out, while ensuring that the color scheme remains cohesive and easy on the eyes. They suggested avoiding overly bright or harsh colors that can distract from the message.
-
+- **Shorthand Presentation Enhancements**: Feedback pointed to enhancing the visuals within Shorthand, recommending better use of **contrast** and **typography** for easier readability.
+- 
 ---
 
 ## Changes After Part II
