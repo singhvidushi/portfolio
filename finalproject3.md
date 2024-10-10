@@ -4,7 +4,7 @@
 ---
 ## Audience
 The intended audience for this project includes **binge-watchers** and **regular viewers** who regularly stream content from multiple platforms like **Netflix, Amazon Prime, Hulu,** and **Disney+**. These users often face decision fatigue when deciding what to watch and where to find their preferred genres. Therefore, the dashboard was designed with these personas in mind to simplify their decision-making process.
-
+<img src="Personas.png" alt="Sketch 2" width="1200" />
 ### Personas Used:
 - **Binge-Watchers**: This group watches several episodes or movies in one sitting. They are primarily concerned with finding platforms that offer a wide selection of titles in their preferred genres.
 - **Regular Viewers**: These users watch content on a more moderate basis but still need quick access to platform recommendations tailored to their interests. They are looking for the most efficient way to choose the right streaming service for specific genres.
