@@ -56,4 +56,4 @@ My goal is to refine my skills in crafting narratives that not only inform but a
 [My Portfolio URL](https://singhvidushi.github.io/portfolio/)
 
 ### <span style="color:#f0f0f0">**GitHub Repository**</span>  
-[This repository](https://github.com/cmustudent/tswd-portfolio-templates/)
+[This repository](https://github.com/singhvidushi/portfolio/tree/main)
