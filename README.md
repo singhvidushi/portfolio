@@ -1,24 +1,24 @@
 | [Home Page](https://singhvidushi.github.io/portfolio/) | [Visualizing Debt](/dataviz.md) | [Critique by Design](/assignment3.md) | [Final Project I](/final_project.md) | [Final Project II](/finalproject2.md) | [Final Project III](#final-project-part-three) |
 
-# <span style="color:#ff6347">**Portfolio**</span>
+# <span style="color:#f0f0f0">**Portfolio**</span>
 
 ---
 
-## <span style="color:#1e90ff">**About Me**</span>
+## <span style="color:#f0f0f0">**About Me**</span>
 
-Hello! I'm <span style="color:#ff4500">**Vidushi Singh**</span>, currently pursuing my Master's in Information Systems Management at Carnegie Mellon University. With a background in product management and technology consulting, I have a deep passion for leveraging data to tell compelling stories that drive business decisions. My professional journey has been shaped by roles that blend data analysis, strategic thinking, and user experience, enabling me to create impactful products and solutions.
+Hello! I'm **Vidushi Singh**, currently pursuing my Master's in Information Systems Management at Carnegie Mellon University. With a background in product management and technology consulting, I have a deep passion for leveraging data to tell compelling stories that drive business decisions. My professional journey has been shaped by roles that blend data analysis, strategic thinking, and user experience, enabling me to create impactful products and solutions.
 
 ---
 
-## <span style="color:#32cd32">**What I Hope to Learn**</span>
+## <span style="color:#f0f0f0">**What I Hope to Learn**</span>
 
 My goal is to refine my skills in crafting narratives that not only inform but also inspire action, bridging the gap between data and decision-making. I'm particularly interested in mastering tools and methodologies that help communicate data-driven stories effectively to diverse stakeholders.
 
 ---
 
-## <span style="color:#ff8c00">**Class Exercise**</span> (Trust in News Organization)
+## <span style="color:#f0f0f0">**Class Exercise**</span> (Trust in News Organization)
 
-<div class='tableauPlaceholder' id='viz1725600202188' style='position: relative; background-color: #2d2d2d; border-radius: 10px; padding: 20px;'>
+<div class='tableauPlaceholder' id='viz1725600202188' style='position: relative; background-color: #1e1e1e; border-radius: 10px; padding: 20px;'>
   <noscript>
     <a href='#'><img alt='Trust in news organization (source: Simons Research)' src='https://public.tableau.com/static/images/Ne/NewOrganization/Sheet12/1_rss.png' style='border: none; width:100%; height:auto;' /></a>
   </noscript>
@@ -52,8 +52,8 @@ My goal is to refine my skills in crafting narratives that not only inform but a
 
 ---
 
-### <span style="color:#ff69b4">**Web Page URL**</span>  
+### <span style="color:#f0f0f0">**Web Page URL**</span>  
 [My Portfolio URL](https://cmustudent.github.io/tswd-portfolio-templates/)
 
-### <span style="color:#9370db">**GitHub Repository**</span>  
+### <span style="color:#f0f0f0">**GitHub Repository**</span>  
 [This repository](https://github.com/cmustudent/tswd-portfolio-templates/)
