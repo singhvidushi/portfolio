@@ -18,6 +18,8 @@ In the final portion of my project, I gathered feedback from people outside of m
 
 - **PPT Color Scheme**: He recommended using more **contrasting colors** in the presentation slides to make content stand out, while ensuring that the color scheme remains cohesive and easy on the eyes. They suggested avoiding overly bright or harsh colors that can distract from the message.
 
+---
+
 ## Changes After Part II
 
 Based on feedback from designers and users, I implemented the following changes:
@@ -37,6 +39,9 @@ Based on feedback from designers and users, I implemented the following changes:
   _Stream Smart: Discover the Best Platforms for Your Favorite Genres!_
 
   *Explore how top streaming platforms like Netflix, Amazon Prime, Hulu, and Disney+ stack up in offering your favorite content genres. Dive into the data to see platform preferences, track content trends over time, and get recommendations based on your selection. Make smarter streaming decisions with insights tailored to your viewing tastes!*
+
+
+---
 
 ## What I Learned
 
@@ -61,6 +66,9 @@ This project gave me the opportunity to explore various tools and learn more abo
 
 By integrating these findings, I was able to refine the dashboard to cater to users' content preferences more effectively, and ensure that the visualizations and features helped users make smarter decisions about their viewing habits.
 
+
+---
+
 ## Final Deliverables
 
 1. **GitHub Repository**: [Link to GitHub Repository](https://github.com/singhvidushi/portfolio/tree/main)
@@ -68,6 +76,9 @@ By integrating these findings, I was able to refine the dashboard to cater to us
 
 2. **Final Data Story on Shorthand**: [Link to Final Data Story](https://carnegiemellon.shorthandstories.com/stream-smart/index.html)
    - The final data story is published on Shorthand, presenting an engaging narrative complemented by interactive visualizations. This publicly accessible asset showcases the comprehensive analysis and insights derived from the project.
+
+
+---
 
 ## Citations and References
 
@@ -96,6 +107,8 @@ All datasets, images, and external materials used in this project have been appr
   - [Tableau](https://www.tableau.com/)
   - [Flourish](https://flourish.studio/)
   - [Shorthand](https://www.shorthand.com/)
+
+---
 
 ## Reflection and Final Thoughts
 
