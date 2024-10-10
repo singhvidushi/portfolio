@@ -1,22 +1,64 @@
+<style>
+  body {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #f0f0f0;
+    font-weight: bold;
+  }
+
+  a {
+    color: #f0f0f0;
+    text-decoration: none;
+    padding: 5px;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.3s;
+  }
+
+  a:hover {
+    border-bottom: 2px solid #f0f0f0;
+  }
+
+  .container {
+    padding: 20px;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    margin: auto;
+  }
+
+  .tableauPlaceholder {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #2d2d2d;
+  }
+
+  .highlight {
+    color: #00c3ff;
+  }
+</style>
+
 | [Home Page](https://singhvidushi.github.io/portfolio/) | [Visualizing Debt](/dataviz.md) | [Critique by Design](/assignment3.md) | [Final Project I](/final_project.md) | [Final Project II](/finalproject2.md) | [Final Project III](#final-project-part-three) |
 
-# <span style="color:#f0f0f0">**Portfolio**</span>
+# <span class="highlight">**Portfolio**</span>
 
 ---
 
-## <span style="color:#f0f0f0">**About Me**</span>
+## <span class="highlight">**About Me**</span>
 
 Hello! I'm **Vidushi Singh**, currently pursuing my Master's in Information Systems Management at Carnegie Mellon University. With a background in product management and technology consulting, I have a deep passion for leveraging data to tell compelling stories that drive business decisions. My professional journey has been shaped by roles that blend data analysis, strategic thinking, and user experience, enabling me to create impactful products and solutions.
 
 ---
 
-## <span style="color:#f0f0f0">**What I Hope to Learn**</span>
+## <span class="highlight">**What I Hope to Learn**</span>
 
 My goal is to refine my skills in crafting narratives that not only inform but also inspire action, bridging the gap between data and decision-making. I'm particularly interested in mastering tools and methodologies that help communicate data-driven stories effectively to diverse stakeholders.
 
 ---
 
-## <span style="color:#f0f0f0">**Class Exercise**</span> (Trust in News Organization)
+## <span class="highlight">**Class Exercise**</span> (Trust in News Organization)
 
 <div class='tableauPlaceholder' id='viz1725600202188' style='position: relative; background-color: #1e1e1e; border-radius: 10px; padding: 20px;'>
   <noscript>
@@ -52,8 +94,8 @@ My goal is to refine my skills in crafting narratives that not only inform but a
 
 ---
 
-### <span style="color:#f0f0f0">**Web Page URL**</span>  
+### <span class="highlight">**Web Page URL**</span>  
 [My Portfolio URL](https://singhvidushi.github.io/portfolio/)
 
-### <span style="color:#f0f0f0">**GitHub Repository**</span>  
+### <span class="highlight">**GitHub Repository**</span>  
 [This repository](https://github.com/singhvidushi/portfolio/tree/main)
