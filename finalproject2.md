@@ -1,6 +1,7 @@
 # Final Project: Content Wars: How Streaming Giants Tailor Genres to Captivate Their Audiences
+---
 ## Part II
-  
+---
 ## Wireframes and storyboards:
 <img src="Story.png" alt="Sketch 2" width="700" />
 
@@ -60,6 +61,8 @@ In a world where content is endless, time shouldn’t be wasted figuring out whe
   vizElement.parentNode.insertBefore(scriptElement, vizElement);            
 </script>
 
+---
+
 ## **User Research and Interviews**
 
 For this part of the project, I developed a user research protocol to gather insights from three different individuals who represent my target audience. The goal of this research is to ensure that the visualizations effectively convey the story and help viewers make informed decisions about their streaming platform preferences.
@@ -110,6 +113,8 @@ I will reach out to people in these groups who share similar viewing habits and 
 4. **Highlighting Platform Strengths**:
    - **Feedback**: Users suggested adding an overview of what each platform excels in, like a "Platform Strengths" summary for quick insights.
   
+---
+
 ## Data
 ### Original Data Sources
 The datasets used in this project were sourced from Kaggle. You can find the original data at the following links:
